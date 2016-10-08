@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+FyberCppChallenge
+output.xml
+.DS_Store
